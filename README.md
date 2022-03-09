@@ -5,3 +5,5 @@ Please note this is not the current code for "objectionstudios.com", it is the o
 this was taken during the time movement from the old code to the new code began.
 
 Most of this is terrible programming that I did. I have moved to better methods and learned more CSS. 
+
+I know its not alot. Its the only 2 files I haven't massively changed without saving old code, haha silly me.
